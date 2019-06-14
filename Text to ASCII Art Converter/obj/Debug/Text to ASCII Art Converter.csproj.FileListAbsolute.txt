@@ -1,0 +1,7 @@
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\bin\Debug\Text to ASCII Art Converter.exe.config
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\bin\Debug\Text to ASCII Art Converter.exe
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\bin\Debug\Text to ASCII Art Converter.pdb
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\obj\Debug\Text to ASCII Art Converter.csprojAssemblyReference.cache
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\obj\Debug\Text to ASCII Art Converter.csproj.CoreCompileInputs.cache
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\obj\Debug\Text to ASCII Art Converter.exe
+G:\source\repos\Text-to-ASCII-Art-Converter\Text to ASCII Art Generator\obj\Debug\Text to ASCII Art Converter.pdb
